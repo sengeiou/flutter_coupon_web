@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","hkbook|lib/ThridLib/flutter_screenutil-0.7.0/lib/flutter_screenutil.dart","hkbook|lib/app/sq_color.dart","hkbook|lib/public.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

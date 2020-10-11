@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["hkbook|lib/ThridLib/dio-3.0.8/lib/src/multipart_file.dart","hkbook|lib/ThridLib/dio-3.0.8/lib/src/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","math"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["hkbook|lib/ThridLib/plugin_platform_interface-1.0.2/lib/plugin_platform_interface.dart","meta|lib/meta.dart","hkbook|lib/ThridLib/url_launcher_platform_interface-1.0.6/lib/method_channel_url_launcher.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

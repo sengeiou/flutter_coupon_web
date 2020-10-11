@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","hkbook|lib/page/mine/mine_page.dart","hkbook|lib/public.dart","hkbook|lib/app/root_scene.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

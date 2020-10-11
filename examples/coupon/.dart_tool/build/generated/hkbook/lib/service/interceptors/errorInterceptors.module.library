@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["hkbook|lib/ThridLib/connectivity-0.4.6+2/lib/connectivity.dart","hkbook|lib/ThridLib/dio-3.0.8/lib/dio.dart","hkbook|lib/service/result_data.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

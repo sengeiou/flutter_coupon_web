@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","hkbook|lib/widget/novel_cover_image.dart","hkbook|lib/app/app_navigator.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

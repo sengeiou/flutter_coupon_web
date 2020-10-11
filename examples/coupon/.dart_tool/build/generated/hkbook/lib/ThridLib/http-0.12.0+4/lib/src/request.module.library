@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["http_parser|lib/http_parser.dart","hkbook|lib/ThridLib/http-0.12.0+4/lib/src/base_request.dart","hkbook|lib/ThridLib/http-0.12.0+4/lib/src/byte_stream.dart","hkbook|lib/ThridLib/http-0.12.0+4/lib/src/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","typed_data"],"hasMain":false}

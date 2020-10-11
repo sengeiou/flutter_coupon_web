@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","hkbook|lib/model/coupon_model.dart","hkbook|lib/public.dart","hkbook|lib/ThridLib/flutter_screenutil-0.7.0/lib/flutter_screenutil.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

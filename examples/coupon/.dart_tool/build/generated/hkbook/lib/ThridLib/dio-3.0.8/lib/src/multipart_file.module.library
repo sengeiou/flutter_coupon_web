@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["http_parser|lib/http_parser.dart","hkbook|lib/ThridLib/dio-3.0.8/lib/src/utils.dart"],"parts":[],"conditionalDeps":[{"$default":"hkbook|lib/ThridLib/dio-3.0.8/lib/src/multipart_file_stub.dart","dart.library.io":"hkbook|lib/ThridLib/dio-3.0.8/lib/src/multipart_file_io.dart"}],"sdkDeps":["async","convert"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","flutter_web|lib/scheduler.dart","hkbook|lib/ThridLib/flutter_easyrefresh-2.0.8/lib/easy_refresh.dart","hkbook|lib/ThridLib/flutter_easyrefresh-2.0.8/lib/src/i18n/global_easy_refresh_localizations.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","math"],"hasMain":false}

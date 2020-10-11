@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["hkbook|lib/ThridLib/http-0.12.0+4/lib/src/base_request.dart","hkbook|lib/ThridLib/http-0.12.0+4/lib/src/byte_stream.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

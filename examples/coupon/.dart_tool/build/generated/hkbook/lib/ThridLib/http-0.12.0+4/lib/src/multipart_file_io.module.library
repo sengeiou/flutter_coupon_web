@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["async|lib/async.dart","http_parser|lib/http_parser.dart","path|lib/path.dart","hkbook|lib/ThridLib/http-0.12.0+4/lib/src/byte_stream.dart","hkbook|lib/ThridLib/http-0.12.0+4/lib/src/multipart_file.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io"],"hasMain":false}

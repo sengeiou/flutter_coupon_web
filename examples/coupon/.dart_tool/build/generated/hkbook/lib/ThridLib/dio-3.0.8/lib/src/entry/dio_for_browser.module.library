@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["hkbook|lib/ThridLib/dio-3.0.8/lib/src/options.dart","hkbook|lib/ThridLib/dio-3.0.8/lib/src/dio.dart","hkbook|lib/ThridLib/dio-3.0.8/lib/src/adapters/browser_adapter.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

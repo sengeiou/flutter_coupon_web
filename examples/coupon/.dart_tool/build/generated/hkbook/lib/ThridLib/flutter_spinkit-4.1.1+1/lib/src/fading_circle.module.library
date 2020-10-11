@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/widgets.dart","hkbook|lib/ThridLib/flutter_spinkit-4.1.1+1/lib/src/tweens/delay_tween.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","hkbook|lib/ThridLib/flutter_easyrefresh-2.0.8/lib/src/footer/load_indicator.dart","hkbook|lib/ThridLib/flutter_easyrefresh-2.0.8/lib/src/footer/footer.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

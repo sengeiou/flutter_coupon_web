@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["hkbook|lib/ThridLib/uuid-2.0.4/lib/uuid_util.dart","crypto|lib/crypto.dart","convert|lib/convert.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

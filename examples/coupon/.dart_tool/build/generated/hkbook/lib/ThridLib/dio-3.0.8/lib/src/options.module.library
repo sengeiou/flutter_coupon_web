@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["hkbook|lib/ThridLib/dio-3.0.8/lib/src/adapter.dart","hkbook|lib/ThridLib/dio-3.0.8/lib/src/headers.dart","hkbook|lib/ThridLib/dio-3.0.8/lib/src/transformer.dart","hkbook|lib/ThridLib/dio-3.0.8/lib/src/cancel_token.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

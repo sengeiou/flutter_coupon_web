@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","flutter_web|lib/services.dart","hkbook|lib/page/mine/mine_cell.dart","hkbook|lib/ThridLib/flutter_easyrefresh-2.0.8/lib/easy_refresh.dart","hkbook|lib/public.dart","hkbook|lib/page/mine/me_header.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

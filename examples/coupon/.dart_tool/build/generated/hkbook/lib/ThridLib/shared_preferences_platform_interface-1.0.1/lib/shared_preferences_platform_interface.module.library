@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["meta|lib/meta.dart","hkbook|lib/ThridLib/shared_preferences_platform_interface-1.0.1/lib/method_channel_shared_preferences.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

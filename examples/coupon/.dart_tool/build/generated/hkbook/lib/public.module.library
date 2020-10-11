@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["hkbook|lib/global.dart","hkbook|lib/utility/screen.dart","hkbook|lib/widget/novel_cover_image.dart","hkbook|lib/widget/novel_cover_view.dart","hkbook|lib/app/constant.dart","hkbook|lib/app/app_navigator.dart","hkbook|lib/app/sq_color.dart","hkbook|lib/app/app_scene.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}
